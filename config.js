@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi cho tớ <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Tớ biết mà 🥰. Yêu em bé nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h tớ qua đón nhé công chúa.',
+    messDesc: 'Tối nay 7h tớ qua đón công chúa nhaaaaa',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/kenken.609' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
